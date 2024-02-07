@@ -39,7 +39,7 @@ form {
 }
   
 .btn a {
-    color: white;
+  color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   font-weight: 300;
@@ -57,3 +57,13 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+footer{
+  margin-top: 20px;
+  background-color: dimgrey;
+  height: 200px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  
+}
